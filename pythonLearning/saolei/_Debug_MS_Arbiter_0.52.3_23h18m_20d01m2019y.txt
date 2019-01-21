@@ -1,0 +1,91 @@
+23:18:17:945 hack found. abnormal program termination
+23:18:17:938 weird time
+23:15:01:048 board restarted in upk cheat mode
+23:15:01:045 
+23:14:53:884 weird time
+23:14:52:487 weird time
+23:14:52:003 weird time
+23:12:46:166 board restarted in upk cheat mode
+23:12:46:164 
+23:11:35:923 board restarted in upk cheat mode
+23:11:35:921 
+23:09:12:768 board restarted in upk cheat mode
+23:09:12:766 
+23:06:11:736 board restarted in upk cheat mode
+23:06:11:733 
+23:03:32:049 board restarted in upk cheat mode
+23:03:32:047 
+23:02:38:523 board restarted in upk cheat mode
+23:02:38:521 
+23:01:23:828 board restarted in upk cheat mode
+23:01:23:827 
+22:59:35:397 board restarted in upk cheat mode
+22:59:35:394 
+22:55:27:588 board restarted in upk cheat mode
+22:55:27:586 
+22:53:39:768 board restarted in upk cheat mode
+22:53:39:766 
+22:47:31:715 board restarted in upk cheat mode
+22:47:31:713 
+22:44:47:222 board restarted in upk cheat mode
+22:44:47:219 
+22:42:52:042 board restarted in upk cheat mode
+22:42:52:039 
+22:37:49:465 board restarted in upk cheat mode
+22:37:49:463 
+22:31:59:092 board restarted in upk cheat mode
+22:31:59:090 
+22:31:21:871 board restarted in upk cheat mode
+22:31:21:869 
+22:28:44:835 board restarted in upk cheat mode
+22:28:44:833 
+22:27:22:126 board restarted in upk cheat mode
+22:27:22:124 
+22:20:56:701 board restarted in upk cheat mode
+22:20:56:699 
+22:18:55:620 board restarted in upk cheat mode
+22:18:55:618 
+22:18:36:392 board restarted in upk cheat mode
+22:18:36:389 
+22:09:32:292 board restarted in upk cheat mode
+22:09:32:289 
+22:09:04:137 board restarted in upk cheat mode
+22:09:04:135 
+22:08:45:643 board restarted in upk cheat mode
+22:08:45:642 
+22:06:46:685 board restarted in upk cheat mode
+22:06:46:683 
+22:06:44:824 board restarted in upk cheat mode
+22:06:44:822 
+22:06:22:721 board restarted in upk cheat mode
+22:06:22:719 
+22:06:02:368 board restarted in upk cheat mode
+22:06:02:367 
+22:04:05:698 board restarted in upk cheat mode
+22:04:05:696 
+22:03:55:692 board restarted in upk cheat mode
+22:03:55:690 
+22:01:18:581 board restarted in upk cheat mode
+22:01:18:579 
+22:00:33:686 board restarted in upk cheat mode
+22:00:33:685 
+21:56:10:440 board restarted in upk cheat mode
+21:56:10:438 
+21:46:06:181 board restarted in upk cheat mode
+21:46:06:180 
+21:44:47:431 board restarted in upk cheat mode
+21:44:47:430 
+21:41:13:906 ---
+21:41:13:905 who of them got the skills to test me?
+21:41:13:904 ---
+21:41:13:902 warp field stabilized. opening gate to the minesweeper world
+21:41:13:900 encrypt_engine test ok
+21:41:13:899 encrypt_engine testing ...
+21:41:13:898 ---
+21:41:13:897 language  | 00000804
+21:41:13:894 timezone  | 中国标准时间 (GMT +8:00)
+21:41:13:892 platform  | Windows NT 6.2 build 9200, 
+21:41:13:891 memory    | 2047,0 of 2047,0 MB RAM free
+21:41:13:890 cpu speed | run the command get_cpu_speed
+21:41:13:888 date      | Sun, 20.01.2019, process 0x00031442 launched
+21:41:13:882 path      | D:\PYTHONLEARNING\SAOLEI\

@@ -1,0 +1,18 @@
+23:20:08:395 hack found. abnormal program termination
+23:20:08:394 weird time
+23:20:08:393 protocol save ok
+23:20:08:389 preferences saved
+23:19:21:885 ---
+23:19:21:885 who of them got the skills to test me?
+23:19:21:884 ---
+23:19:21:883 warp field stabilized. opening gate to the minesweeper world
+23:19:21:882 encrypt_engine test ok
+23:19:21:881 encrypt_engine testing ...
+23:19:21:880 ---
+23:19:21:879 language  | 00000804
+23:19:21:877 timezone  | 中国标准时间 (GMT +8:00)
+23:19:21:876 platform  | Windows NT 6.2 build 9200, 
+23:19:21:875 memory    | 2047,0 of 2047,0 MB RAM free
+23:19:21:874 cpu speed | run the command get_cpu_speed
+23:19:21:872 date      | Mon, 14.01.2019, process 0x002F02FC launched
+23:19:21:868 path      | D:\PYTHONLEARNING\SAOLEI\

@@ -1,0 +1,29 @@
+# coding=utf-8 #使用中文必须加这一句
+# file: GetFunction.py
+#
+import re
+import sys
+def DealwithFunc(s):
+    r=re.compile(r'''
+        (?<=def\s)
+        \w+
+        \(.*?\)
+        (?=:)
+        ''',re.X)
+    return  r.findall(s)
+def DealwithVar(s):
+    vars=[]
+    r=re.compile(r'''
+        \b
+        \w+
+        (?=\s=)
+        ''',re.X)
+    vars.extend(r.findall(s))
+    r = re.compile(r'''
+        (?<=for\s)
+        \w+
+        \s
+        (?=in)
+        ''', re.X)
+    vars.extend(r.findall(s))
+    return vars

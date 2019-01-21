@@ -1,0 +1,15 @@
+20:53:54:307 preferences saved
+20:53:16:884 ---
+20:53:16:883 who of them got the skills to test me?
+20:53:16:882 ---
+20:53:16:881 warp field stabilized. opening gate to the minesweeper world
+20:53:16:878 encrypt_engine test ok
+20:53:16:877 encrypt_engine testing ...
+20:53:16:876 ---
+20:53:16:875 language  | 00000804
+20:53:16:873 timezone  | 中国标准时间 (GMT +8:00)
+20:53:16:872 platform  | Windows NT 6.2 build 9200, 
+20:53:16:871 memory    | 2047,0 of 2047,0 MB RAM free
+20:53:16:870 cpu speed | run the command get_cpu_speed
+20:53:16:869 date      | Sun, 20.01.2019, process 0x0016052E launched
+20:53:16:860 path      | D:\PYTHONLEARNING\SAOLEI\
